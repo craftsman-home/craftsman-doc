@@ -82,7 +82,7 @@ Check environment version :
 ```code
 > ruby -v
 > gem -v
-> bunlker -v
+> bundler -v
 ```
 ### Step 2 : Install Ruby Dependencies
 
