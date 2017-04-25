@@ -108,14 +108,19 @@ bundle init
 ```
 You will find the "Gemfile" when command completes. update "Gemfile" like:
 ```code
+# frozen_string_literal: true
+source "https://rubygems.org"
+
+# gem "rails"
 gem 'rspec'
 gem 'selenium-webdriver'
 gem 'selenium-client'
+# 
 ```
 
 run commond:
 ```code
-bundle init
+bundler init
 ```
 ### Step 4 : Run & Debug demo
 
