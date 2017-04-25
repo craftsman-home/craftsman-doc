@@ -2,8 +2,10 @@
 
 * [Setup environment step](#setup-environment-step)
 * [Configure your DEV IDE（Use VS Code）](#configure-your-dev-ideuse-vs-code)
-* [Download selenium driver](#configure-your-dev-ideuse-vs-code)
-* [How to run and debug](#configure-your-dev-ideuse-vs-code)
+* [Download selenium driver](#download-selenium-driver)
+* [How to run & debug?](#how-to-run--debug)
+* [Learn More](#learn-more)
+
 
 ## Setup environment step.
 ### Step 1 : Install ruby
@@ -99,7 +101,7 @@ Run this commond:
 bundle install --binstubs 
 ```
 
-### Step 2 : Create project 
+### Step 3 : Create project 
 Initialize the project with the following command:
 ```code
 bundle init
@@ -115,7 +117,7 @@ run commond:
 ```code
 bundle init
 ```
-### Step 3 : Run & Debug demo
+### Step 4 : Run & Debug demo
 
 create main.rb file, and write code like this:
 ```ruby
@@ -140,7 +142,7 @@ driver.quit();
 Enter F5 to run the ruby script. (Of course, you can use the command line ： ruby yourfile)
 Now you can see the auto demo running, and you can add breakpoints to debug it.
 
-### Step 4 : Run & Debug with RSpec
+### Step 5 : Run & Debug with RSpec
 
 create rspec-test.rb file, and write code like this:
 ```ruby
@@ -171,6 +173,7 @@ cilck "Debug" button, select 'RSpec - active spec file only' in dropdown list:
 
 Enter F5 to run the ruby script like step 3.
 
+## Learn More
 Here are some useful links:
 Selenium : https://github.com/SeleniumHQ/selenium
 
