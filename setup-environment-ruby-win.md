@@ -169,6 +169,7 @@ end
 ```
 
 cilck "Debug" button, select 'RSpec - active spec file only' in dropdown list:
+
 ![debug-rspec](img/vscode-debug-rspec.png)
 
 Enter F5 to run the ruby script like step 3.
