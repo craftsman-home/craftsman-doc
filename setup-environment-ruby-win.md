@@ -82,7 +82,7 @@ Check environment version :
 ```code
 > ruby -v
 > gem -v
-> bundler -v
+> bundle -v
 ```
 ### Step 2 : Install Ruby Dependencies
 
@@ -120,7 +120,7 @@ gem 'selenium-client'
 
 run commond:
 ```code
-bundler init
+bundle init
 ```
 ### Step 4 : Run & Debug demo
 
