@@ -1,5 +1,9 @@
 # Setup Environment(ruby for windows)
 
+* [Setup environment step](#authentication)
+* [Configure your DEV IDE（Use VS Code）](#site-list)
+* [Timezone](#timezone)
+
 ## Setup environment step.
 ### Step 1 : Install ruby
 
