@@ -2,4 +2,5 @@
 Document for craftsman framework.
 
 ## Quick Start
-Build a ruby automation environment.
+
+* [Setup Environment with Ruby](#setup-environment-ruby-win.md)
