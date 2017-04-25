@@ -184,13 +184,10 @@ Here are some useful links:
 
 Selenium : https://github.com/SeleniumHQ/selenium
 
-Rspec： 
-
-	http://rspec.info
-	
-	https://relishapp.com/rspec
-	
-	https://cucumber.io
+RSpec :
+* http://rspec.info
+* https://relishapp.com/rspec
+* https://cucumber.io
 
 bundler : http://bundler.io/
 
